@@ -1,0 +1,24 @@
+<style>
+body {background: #FFFFFF;color: #000000; marign-left: 4pt;marign-right: 4pt; marign-top: 4pt; marign-bottom: 20pt;}
+h2 {font: 14pt arial; color: #000000}
+h3 {font: 12pt arial; color: #000000; text-align: center;}
+p#js {font:12pt times; text-indent: 0.25in; text-align:justify;}
+p#no {font:12pt times; text-align: justify;}
+A:Link{ Color: #666666; font-weight:normal; text-decoration: none; font-size: 100%;
+ font-family: Times;}
+A:Visited{ Color: #996633; font-weight:normal ; text-decoration: none; font-size: 100%; 
+font-family: Times;}
+A:Active{ Color: #000000;font-weight:normal ; text-decoration: none; font-size: 100%; 
+font-family: Times;}
+A:Hover{ Color: #000000; font-weight:normal ; text-decoration: none; font-size: 100%; font-family: Times;}
+.i {font: 12pt Times; color: #000000; font-style: italic;}
+.b {font: 12pt Times; color: #000000; font-style: oblique; font-weight: bold;}
+.ct {font: 13pt arial; color: #000000; font-weight: bold;}
+.ca {font: 11pt arial; color: #000000; font-style: italic;}
+.ltop {background-color: #ff9933; background-image: URL(img/hor_left_end.gif); background-repeat: no-repeat; background-position: left;}
+.rtop {background-color: #ff9933; background-image: URL(img/hor_right_end.gif); background-repeat: no-repeat; background-position: right;}
+.tleft {background-color: #ff9933; background-image: URL(img/vert_top_end.gif); background-repeat: no-repeat; background-position: top;}
+.bleft {background-color: #ff9933; background-image: URL(img/vert_bott_end.gif); background-repeat: no-repeat; background-position: bottom;}
+.ttext {padding-left: 6px; padding-right: 6px;}
+.ctext {padding-bottom: 5px;}
+</style>
